@@ -8,10 +8,10 @@ Below is the complete index linking to all weekly documentation files.
 Central access points for all files, prototypes, design documents, and builds.
 
 - **📁 GitHub Repository**  
- (https://git.arts.ac.uk/24004769/24-25-Creative-Making-MSc-Advanced-Project/tree/main)](https://github.com/ZZJ200618/24-25-Creative-Making-MSc-Advanced-Project/tree/main)
+https://git.arts.ac.uk/24004769/24-25-Creative-Making-MSc-Advanced-Project/tree/main)](https://github.com/ZZJ200618/24-25-Creative-Making-MSc-Advanced-Project/tree/main
 
 - **🎨 Figma UI / Narrative Flow / Visual System**  
- (https://www.figma.com/design/M6ZDMdBqAra9vinil5irMe/RESHE?node-id=0-1&t=Bc3RFLHX48eTLVI0-1)
+  https://www.figma.com/design/M6ZDMdBqAra9vinil5irMe/RESHE?node-id=0-1&t=Bc3RFLHX48eTLVI0-1
 
 - **🎬 Demo Video / Playthrough Recording**  
   https://youtu.be/your-video-link
